@@ -11,6 +11,12 @@ var urlencodedParser = bodyParser.urlencoded({ extended: false })
 
 app.use('/', burgerController);
 
+//CRUD
+// Create
+// Read
+// Update
+// Delete 
+
 
 
 
